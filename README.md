@@ -1,84 +1,130 @@
-# EH Fitness Website
+\## 📌 \*\*EH Fitness Website\*\*
 
 
 
-This repository contains the source code for the EH Fitness website.
+A fully responsive, multi-page fitness website built for \*\*EH Fitness\*\*.  
 
-The site includes:
-
-
-
-Home page
+This project includes a gallery, class information, contact page, navigation system, and a clean, modern layout. It is designed to work on both desktop and mobile devices.
 
 
 
-Gallery
+---
 
 
 
-Classes information
+\## 🔗 \*\*Live Website\*\*
 
 
 
-Contact page
+\*\*https://ehfitness.co.uk\*\*
 
 
 
-Mobile-friendly layout
+---
 
 
 
-Custom styling and JavaScript
+\## 🏋️ \*\*Features\*\*
 
 
 
-Optimised images and layout for performance
+\- ✔️ Responsive layout for mobile \& desktop  
+
+\- ✔️ Gallery page using optimised photos  
+
+\- ✔️ Classes information page  
+
+\- ✔️ Contact page with clear structure  
+
+\- ✔️ Consistent navigation across all pages  
+
+\- ✔️ Clean and modern UI  
+
+\- ✔️ Lightweight, fast-loading pages  
 
 
 
-Tech Used
+---
 
 
 
-HTML5
+\## 🛠️ \*\*Tech Stack\*\*
 
 
 
-CSS3
+| Technology | Description |
+
+|-----------|-------------|
+
+| \*\*HTML5\*\* | Page structure \& content |
+
+| \*\*CSS3\*\* | Styling, layout, responsiveness |
+
+| \*\*JavaScript\*\* | Interactive elements |
+
+| \*\*Git \& GitHub\*\* | Version control |
 
 
 
-JavaScript
+---
 
 
 
-Responsive design principles
+\## 📂 \*\*Project Structure\*\*
 
 
 
-Hosted on external server, version-controlled with Git \& GitHub
+EHFitnessWebsite/
+
+├── index.html
+
+├── classes.html
+
+├── contact.html
+
+├── gallery.html
+
+├── style.css
+
+├── script.js
+
+└── images/
 
 
 
-Purpose
+---
 
 
 
-This repository allows for:
+\## 🎯 \*\*Purpose of This Repo\*\*
 
 
 
-Full version control
+\- To maintain clean version control  
+
+\- To allow future improvements safely  
+
+\- To demonstrate front-end development skills  
+
+\- To serve as part of a growing professional portfolio  
 
 
 
-Easy updates
+---
 
 
 
-Tracking changes over time
+\## 📬 \*\*Contact\*\*
 
 
 
-Portfolio evidence for web development
+\*\*Daniel Weller\*\*  
+
+📧 dwai@hotmail.co.uk  
+
+🔗 GitHub: https://github.com/danweller-dev
+
+
+
+
 
