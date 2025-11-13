@@ -17,7 +17,7 @@ This project includes a gallery, class information, contact page, navigation sys
 
 
 
-**https://ehfitness.co.uk**
+**https://ehfitness.uk**
 
 
 
