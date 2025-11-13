@@ -1,3 +1,5 @@
+![EH Fitness Homepage](./ehfitnessHome.png)
+
 \## 📌 \*\*EH Fitness Website\*\*
 
 
