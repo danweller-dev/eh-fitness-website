@@ -1,11 +1,10 @@
 ![EH Fitness Homepage](./ehfitnessHome.png)
 
-\## 📌 \*\*EH Fitness Website\*\*
+## 📌 **EH Fitness Website**
 
 
 
-A fully responsive, multi-page fitness website built for \*\*EH Fitness\*\*.  
-
+A fully responsive, multi-page fitness website built for **EH Fitness**.  
 This project includes a gallery, class information, contact page, navigation system, and a clean, modern layout. It is designed to work on both desktop and mobile devices.
 
 
@@ -14,35 +13,11 @@ This project includes a gallery, class information, contact page, navigation sys
 
 
 
-\## 🔗 \*\*Live Website\*\*
+## 🔗 **Live Website**
 
 
 
-\*\*https://ehfitness.co.uk\*\*
-
-
-
----
-
-
-
-\## 🏋️ \*\*Features\*\*
-
-
-
-\- ✔️ Responsive layout for mobile \& desktop  
-
-\- ✔️ Gallery page using optimised photos  
-
-\- ✔️ Classes information page  
-
-\- ✔️ Contact page with clear structure  
-
-\- ✔️ Consistent navigation across all pages  
-
-\- ✔️ Clean and modern UI  
-
-\- ✔️ Lightweight, fast-loading pages  
+**https://ehfitness.co.uk**
 
 
 
@@ -50,7 +25,31 @@ This project includes a gallery, class information, contact page, navigation sys
 
 
 
-\## 🛠️ \*\*Tech Stack\*\*
+## 🏋️ **Features**
+
+
+
+- ✔️ Responsive layout for mobile \& desktop  
+
+- ✔️ Gallery page using optimised photos  
+
+- ✔️ Classes information page  
+
+- ✔️ Contact page with clear structure  
+
+- ✔️ Consistent navigation across all pages  
+
+- ✔️ Clean and modern UI  
+
+- ✔️ Lightweight, fast-loading pages  
+
+
+
+---
+
+
+
+## 🛠️ **Tech Stack**
 
 
 
@@ -58,13 +57,13 @@ This project includes a gallery, class information, contact page, navigation sys
 
 |-----------|-------------|
 
-| \*\*HTML5\*\* | Page structure \& content |
+| **HTML5** | Page structure & content |
 
-| \*\*CSS3\*\* | Styling, layout, responsiveness |
+| **CSS3** | Styling, layout, responsiveness |
 
-| \*\*JavaScript\*\* | Interactive elements |
+| **JavaScript** | Interactive elements |
 
-| \*\*Git \& GitHub\*\* | Version control |
+| **Git & GitHub** | Version control |
 
 
 
@@ -72,7 +71,7 @@ This project includes a gallery, class information, contact page, navigation sys
 
 
 
-\## 📂 \*\*Project Structure\*\*
+## 📂 **Project Structure**
 
 
 
@@ -98,17 +97,17 @@ EHFitnessWebsite/
 
 
 
-\## 🎯 \*\*Purpose of This Repo\*\*
+## 🎯 **Purpose of This Repo**
 
 
 
-\- To maintain clean version control  
+- To maintain clean version control  
 
-\- To allow future improvements safely  
+- To allow future improvements safely  
 
-\- To demonstrate front-end development skills  
+- To demonstrate front-end development skills  
 
-\- To serve as part of a growing professional portfolio  
+- To serve as part of a growing professional portfolio  
 
 
 
@@ -116,11 +115,11 @@ EHFitnessWebsite/
 
 
 
-\## 📬 \*\*Contact\*\*
+## 📬 **Contact**
 
 
 
-\*\*Daniel Weller\*\*  
+**Daniel Weller**  
 
 📧 dwai@hotmail.co.uk  
 
